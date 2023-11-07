@@ -4,6 +4,9 @@ The evolution of drug discovery and design technologies has been worldwide. The 
 # Data 
 The dataset used as a part of this paper consists of data of multiple people across various age groups suffering from a similar kind of disease. This dataset has been obtianed from Kaggle below mentioned is the link Link to https://www.kaggle.com/datasets/prathamtripathi/drugclassification?datasetId=8309
 
+# Usage
+The Code can be executed using Google Collab or Jupyter Notebook with appropriate paths to the input folders
+
 # Methods
 1. Decision Trees
 2. K Nearest Neighbor
